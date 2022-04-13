@@ -1,0 +1,61 @@
+.loginHeading{
+    margin-bottom: 0px;
+    
+}
+.rightlogo{
+width: 200.44px;
+height: 20.13px;
+display: flex;
+position: relative;
+
+}
+.google, .facebook{
+    display: flex;
+    align-items: center;
+    background-color: white;
+    border-radius: 15px;
+    width: 120px;
+    height: 60px;
+    padding: 10px;
+}
+.google img, .facebook img {
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+    
+}
+.facebook {
+    margin-left: 20px;
+   
+}
+.rightlogo {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+.loginwith{
+  
+  width: 200px;
+  align-content: center;
+  margin-left: 190px;
+}
+.loginwith p{
+     width: 100%; 
+   text-align: center; 
+   border-bottom: 1px solid #000; 
+   line-height: 0.1em;
+   margin: 10px 0 20px;
+}
+.loginwith p span { 
+    background:#fff; 
+    padding:0 10px; 
+}
+
+.register{
+    margin-top:20px;
+    margin-left: 230px;
+    display:inline-flex;
+}
+a{
+   color: #008088;
+}

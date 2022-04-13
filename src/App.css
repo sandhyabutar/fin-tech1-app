@@ -1,0 +1,107 @@
+.app{
+  display: flex;
+  height: 100vh;
+  overflow: hidden;
+  width: 100%;
+}
+.left, .right{
+  flex: 1;
+}
+.left{
+
+background: #008088;
+height: 982px;
+}
+.left .fintech {
+  padding: 20px;
+}
+.fintech{
+  width: 114px;
+height: 45px;
+font-family: 'Poppins';
+font-style: italic;
+font-weight: 400;
+font-size: 30px;
+line-height: 45px;
+align-items: top;
+color: #FFFFFF;
+}
+
+.leftimg{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 40px 40px 5px rgba(0, 0, 0, 0) ;
+  width: 463.92px;
+  border-radius: 10px;
+
+  margin-top: 120px;
+  
+  }
+  .imgshadow{
+    opacity:0.3;
+    margin-left: 90.9px ; 
+
+  }
+  .leftpara{
+    width: 363px;
+  height: 84px;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 28px;
+  line-height: 42px;
+  margin-left: 138px;
+  margin-right: 138px;
+  margin-top:70px;
+  margin-bottom:50px;
+
+
+color: #FFFFFF;
+  }
+
+.leftbottom_img{
+  display: flex;
+}
+.leftcircleImg, .leftrectImg, .leftcircleImg2 {
+  flex: 1;
+}
+.leftcircleImg img{
+width: 9.49px;
+height: 9.49px;
+margin-left: 225px;
+
+
+}
+.leftrectImg img{
+width: 28.48px;
+height: 9.49px;
+border-radius: 10px;
+margin-left: 5px;
+
+}
+.leftcircleImg1 img{
+  width: 9.49px;
+  height: 9.49px;
+  margin-left: -145px;
+ 
+  }
+  .leftcircleImg2 img{
+    width: 9.49px;
+    height: 9.49px;
+    margin-left: -133px;
+    
+    
+    }
+    .right{
+      padding: 40px 40px 20px 40px;
+      background-color: #FFFFFF !important;
+    
+    }
+    .right-wrap{
+        padding: 10px;
+        height: 90%;
+        background: #E5F8E8;
+        box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+        border-radius: 10px;
+    }

@@ -1,0 +1,54 @@
+.conatiner{
+overflow: hidden;
+}
+
+.left{
+ background: #008088;
+width: 40%;
+float: left;
+position: relative;
+}
+.heading_left{
+  
+}
+.fintech_text{
+color: #FFFFFF;
+left: 30.93px;
+top: 27.24px;
+
+font-family: 'Poppins';
+font-style: italic;
+font-weight: 400;
+font-size: 30px;
+line-height: 45px;
+position: relative;
+}
+.body_left{
+
+}
+left_text{
+
+}
+.left_dots{
+
+}
+.left_image{
+   
+
+}
+.image_align{
+    position: relative;
+    top: 100px;
+  }
+  img{
+    width: 300px;
+    height: 200px;
+    
+  }
+.right{
+
+    background-color: aqua;
+    width: 60%;
+    float: right;
+  
+}
