@@ -1,0 +1,45 @@
+.cards_with_content{
+    display: flex;
+}
+.card_img_content{
+    width: 160px;
+    height: 230px;
+    box-shadow: 0px 4px 4px 4px rgba(0, 0, 0, 0.08);
+    border-radius: 15px;
+    margin-right: 50px;
+   padding: 8px;
+  
+    
+}
+.card_img_content img{
+    width: 140px;
+    height: 130;
+    padding-bottom: 0px;
+}
+.delete_icon_with_pay{
+ margin-top: 40px;
+
+}
+.delete_icon_with_pay img{
+    width: 20px;
+}
+.icons{
+ border: 1px solid #008088;
+border-radius: 15px;
+padding-left: 10px;
+padding-right: 10px;
+
+}
+.tech{
+    height: 50px;
+    width: 350px;
+    box-shadow: 0px 4px 4px 4px rgba(0, 0, 0, 0.08);
+    padding: 10px;
+    display: flex;
+    margin-bottom: 20px;
+   
+}
+.tech img{
+    width: 40px;
+    height: 40px;
+}

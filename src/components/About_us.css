@@ -1,0 +1,162 @@
+.About_us_top{
+    height: 300px;
+    width: 1080px;
+    background: #008088;
+    margin-left: 30px;
+    position: absolute;
+    display: flex;
+    border-radius: 10px;
+}
+.Manage_finance{
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    margin: 60px 100px 0px 180px;
+}
+.card{
+    padding-top: 20px;
+    height: 220px;
+    width: 320px;
+    margin-top: 20px;
+}
+.our_service{
+    height: 360px;
+    background: linear-gradient(180deg, #E5F8E8 0%, #FFFFFF 100%);
+    text-align: center;
+    color: #008088 ;
+    font-weight: bold;
+    padding-top: 40px;
+}
+.our_service_details{
+    display:flex;
+    color: black;
+   padding-left: 280px;
+   padding-top: 40px;
+}
+
+.our_service_details_left{
+   
+}
+.our_service_details_right{
+    padding-left: 280px;
+ 
+}
+.explore{
+padding-top: 20px;
+padding-left: 110px;
+font-weight: 600;
+font-size: 40px;
+color: #008088;
+opacity: 0.6;
+margin-bottom: 20px;
+}
+.explore_service{ 
+  
+width:80%;
+height:500px;  
+border:1px #888888;
+box-shadow: 1px 1px 1px 1px #888888;
+margin: auto;
+padding-top: 40px;
+padding-left: 50px;
+margin-bottom: 50px;
+}
+.get_credit_card{
+    display: flex;
+  
+}
+.get_credit_card img{
+  width: 200px;
+ 
+}
+.para_aftericon{
+    padding-top: 60px;
+    padding-left:100px;
+    font-weight: bold;
+}
+.leran_more{
+    text-align:center;
+    font-weight: lighter;
+    color: #008088;
+}
+.para_beforeicon{
+    padding-top: 60px;
+    padding-right:50px;
+    padding-left: 200px;
+    font-weight: bold;
+}
+.card1{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: rgb(0 128 126  / 25%);
+    background-clip:border-box;
+    height: 150px;
+    width: 130px;
+}
+
+.card-body1{
+    flex: 1 1 auto; 
+
+  }
+.feedback{
+    display: flex;
+    margin-bottom: 50px;
+}
+  .staricon_para{
+      display: flex;
+      margin-right: 40px;
+      margin-left: 60px;
+  }
+  .starpara{
+      font-weight: bold;
+      color: #008088;
+      padding-top: 20px ;
+      padding-left: 10px;
+  }
+  .sendmoneyicon_para{
+      display: flex;
+      padding-left: 50px;
+      margin-bottom: 60px;
+  }
+  .sendmoneyicon_para img{
+      width:150px;
+    margin-left: 90px;
+    margin-top: 10px;
+  }
+  .circle {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: rgb(0 236 250 / 5%);
+    background-clip:border-box;
+    box-shadow: 0rem 0rem rgba(0,0,0,.1)!important;
+    height: 350px;
+    width: 350px;
+    border-radius: 50%;
+   
+    
+  }
+  .para_aftericon1{
+    margin-top: 190px;
+    margin-left: 20px;
+    font-weight: bold;
+}.para_beforeicon1{
+    font-weight: bold;
+    margin-left: 210px;
+    margin-top: 190px; 
+}
+  .service_bottom{
+      height: 250px;
+      padding-top: 40px;
+      background: #EEF4F0;
+  }
+  .services_cites{
+      padding-top: 30px;
+
+  }
+  

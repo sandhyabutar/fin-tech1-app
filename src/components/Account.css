@@ -1,0 +1,140 @@
+
+.account_body{
+    padding-left: 30px;
+    padding-bottom: 20px;
+    padding-right: 30px;
+}
+a{
+    color: black;
+}
+.leftslideicon{
+   
+   font-size: 15px;
+   margin-bottom: 20px;
+}
+.main_content{
+display:flex;
+}
+
+.Apply_acc{
+ 
+}
+.heading_Apply_acc{
+    display:flex;
+    font-size: 20px;
+
+}
+.curre_account{
+font-weight: bold;
+}
+.Apply_acc, .accountTable{ 
+    flex:1;
+}
+span{
+padding: 5px;
+}
+.curre_account{
+    
+    color: #008088;
+}
+.dot {
+    height: 25px;
+    width: 25px;
+    background-color: #008088;
+    border-radius: 50%;
+    display: inline-block;
+  }
+  .details-veri{
+      padding-top: 60px;
+      padding-left: 80px;
+      padding-bottom: 0px;
+      
+  }
+  .accountTable{
+ margin-left: 320px;
+ margin-right: 0px;
+  
+}
+  table{
+    width:80%;
+    height:200px;  
+    border:1px #888888;
+    box-shadow: 0px 4px 4px 4px rgba(0, 0, 0, 0.08);
+    border-radius: 5px;
+    
+    
+  }
+  tr{
+      padding: 20px;
+      border-bottom: 1px dashed black;
+  }
+ td{
+    padding: 10px;   
+ }
+ 
+ .notification{
+     text-align: right;
+     margin-right: 140px;
+    
+     
+ }
+ .notification img{
+     width: 40px;
+     height: 30px;
+ }
+ .location_field{
+     display: flex;
+ }
+ .location_icon,.frame_icon{
+     flex: 1;
+ }
+ .location_icon{
+padding-top: 15px;
+
+ }
+ .frame_icon{
+padding-left:30px;
+ }
+ .location_field  img{
+     margin-bottom: 20px;
+ }
+ .acc_bottom{
+     display: flex;
+     margin-right: 80px;
+ }
+ .left_bottom, .right_bottom{
+     flex:1;
+ }
+ .hdfc_detalis_withbutton{
+     display: flex;
+     margin-right: 60px;
+ }
+
+ .hdfc_detalis{
+    border: 1px solid #008088;
+    margin-bottom: 10px; 
+    margin-right: 10px; 
+    border-radius: 5px;
+    display: flex;
+    color: #008088;
+   
+   
+ }
+ .hdfc_detalis, .hdfc_details_button{
+     flex: 1;
+ }
+ .hdfc_details_button{
+ 
+ }
+ .right_bottom{
+     padding:30px 30px 0px 30px;
+    height:380px;
+    box-shadow: 0px 4px 4px 4px rgba(0, 0, 0, 0.08);
+ }
+ .grouphuman_img{
+text-align: center;
+margin-top: 40px;
+ }
+ .right_bottom img{
+     height:150px;
+ }
